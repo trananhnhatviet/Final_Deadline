@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Admin\source\repos\Library_Project\Source.cpp(319,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Library_Project\Source.cpp(366,8): warning C4551: function call missing argument list
+C:\Users\Admin\source\repos\Library_Project\Source.cpp(424,17): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Admin\source\repos\Library_Project\Source.cpp(438,4): warning C4551: function call missing argument list
+  Library_Project.vcxproj -> C:\Users\Admin\source\repos\Library_Project\x64\Debug\Library_Project.exe
